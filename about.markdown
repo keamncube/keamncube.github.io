@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keaoleboga (Kea) Mnucbe
+title: About
 permalink: /About/
 ---
 This is my Webiste!!!!
