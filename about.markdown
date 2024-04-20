@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Keaoleboga (Kea) Mncube/
+permalink: /About/
 ---
 
 
