@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /Keaoleboga (Kea) Mncube/
+title: Keaoleboga (Kea) Mnucbe
+permalink: /About/
 ---
 This is my Webiste!!!!
 
