@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /About/
 ---
-#Welcome
+
 I'm currently a Reseacrh Fellow with the South African Reserve Bank (SARB) Chair in Monetary Economics at the University of South Africa.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
