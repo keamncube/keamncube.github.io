@@ -27,11 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  keamncube
 # Build settings
 
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+theme: minima
 plugins:
   - jekyll-feed
 
