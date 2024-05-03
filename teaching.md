@@ -5,7 +5,7 @@ permalink: /Teaching/
 ---
 
 
-<img align="right" width="200" height="200" src="{{ site.url }}{{ site.baseurl }}/docs/assets/lecture.jpg" class="img-responsive" />
+<img align="center" width="400" height="400" src="{{ site.url }}{{ site.baseurl }}/docs/assets/lecture.jpg" class="img-responsive" />
 
 <p align="right"> Lecturer (First year Economics): 2024
   
