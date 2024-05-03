@@ -19,9 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: #Keaoleboga (Kea) Mncube
-email: #keaolebogamncube@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
- #This is my website, which contains my past and current work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  #keamncube
