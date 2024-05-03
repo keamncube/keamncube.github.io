@@ -4,6 +4,6 @@ title: Projects
 permalink: /Projects/
 ---
 
-<img align="center" width="80" height="80" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" class="img-responsive" />
+<img align="center" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" class="img-responsive" />
 
-<img align="center" width="100" height="100" src="{{ site.url }}{{ site.baseurl }}/docs/assets/macropru.png" class="img-responsive" />
+<img align="center" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/macropru.png" class="img-responsive" />
