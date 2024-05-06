@@ -5,6 +5,6 @@ permalink: /Projects/
 ---
 
 
-<img align="center" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" class="img-responsive" />
+<img align="left" width="1000" height="1000" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" class="img-responsive" />
 
 
