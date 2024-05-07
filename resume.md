@@ -5,5 +5,5 @@ permalink: /Resume/
 ---
 
 
-<iframe src="https://docs.google.com/gview?url= (https://github.com/keamncube/keamncube.github.io/files/15236341/CV.pdf) &embedded=true" style="
 
+[CV.pdf](https://github.com/keamncube/keamncube.github.io/files/15236615/CV.pdf)
