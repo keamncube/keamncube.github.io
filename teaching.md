@@ -12,4 +12,4 @@ permalink: /Teaching/
 
 <p align="left"> Assistant Lecturer (Applied Microeconometrics, Postgraduate): 2019
 
-<img align="center" width="300" height="300" src="{{ site.url }}{{ site.baseurl }}/docs/assets/lecture.jpg" class="img-responsive" />
+<img align="right" width="300" height="300" src="{{ site.url }}{{ site.baseurl }}/docs/assets/lecture.jpg" class="img-responsive" />
