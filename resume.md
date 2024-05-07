@@ -25,15 +25,15 @@ Languages English, Setswana
 
 
 ## Experience
-**University of Pretoria- South African Reserve Bank** (18 March 2024 - Present)   
+-**University of Pretoria- South African Reserve Bank** (18 March 2024 - Present)   
 Research Officer
 
 
-**University of Pretoria- South African Reserve Bank** (18 March 2024 - Present)
+-**University of Pretoria- South African Reserve Bank** (18 March 2024 - Present)
 Lecturer
 
 
-**University of Pretoria- South African Reserve Bank** (1 July 2022 - 31 Decemeber 2022)
+-**University of Pretoria- South African Reserve Bank** (1 July 2022 - 31 Decemeber 2022)
 Assistant Lecturer
 
 
