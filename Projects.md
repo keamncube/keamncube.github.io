@@ -6,7 +6,7 @@ permalink: /Projects/
 
 
 
-<img align="center" width="800" height="800" src="{{ site.url }}{{ site.baseurl }}/docs/assets/sarb.jpg" class="img-responsive" />
+
 
 <img align="right" width="400" height="400" src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft.png" class="img-responsive" />
 
