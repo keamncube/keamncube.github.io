@@ -10,8 +10,12 @@ permalink: /Resume/
 [CV.pdf](https://github.com/keamncube/keamncube.github.io/files/15240263/CV.pdf)
 
 
-# Your Name
-Software Engineer | Portfolio: [keamncube.github.io](https://keamncube.github.io)
+# General Information
+Full Name  Keaoleboga Lucas Mncube | Portfolio: [keamncube.github.io](https://keamncube.github.io)
+
+Date of Birth  02 Decemeber 1993
+
+Languages English, Setswana
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
