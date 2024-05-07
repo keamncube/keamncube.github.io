@@ -18,9 +18,28 @@ Date of Birth  02 Decemeber 1993
 Languages English, Setswana
 
 ## Education
-**Ph.D (Economics)** | University of Pretoria | February 2019-  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy
+**Ph.D (Economics)** | University of Pretoria | February 2019-  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy**
 
 **Master of Philosophy (Economics)** | University of Pretoria | February 2017-December 2018
+
+
+
+## Experience
+**University of Pretoria- South African Reserve Bank** (18 March 2024 - Present)   
+Research Officer
+- Accomplishment 1
+- Accomplishment 2
+
+**University of Pretoria- South African Reserve Bank** (18 March 2024 - Present)
+Lecturer
+- Accomplishment 1
+- Accomplishment 2
+
+
+**University of Pretoria- South African Reserve Bank** (1 July 2022 - 31 Decemeber 2022)
+Assistant Lecturer
+- Accomplishment 1
+- Accomplishment 2
 
 
 ## Skills
@@ -29,16 +48,7 @@ Languages English, Setswana
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
 
-## Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
