@@ -18,8 +18,9 @@ Date of Birth  02 Decemeber 1993
 Languages English, Setswana
 
 ## Education
-**Ph.D (Economics)** | University of Pretoria | February 2019- 
-**Master of Philosophy (Economics)** | University of Pretoria | February 2017-December 2018
+**Ph.D (Economics)** | University of Pretoria | February 2019-  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy**|
+
+**Master of Philosophy (Economics)** | University of Pretoria | February 2017-December 2018 |
 
 
 
@@ -36,6 +37,9 @@ Lecturer
 Assistant Lecturer
 
 
+## Research Interests
+Macroeconomics, Bank Regualtion, Monetary Economics, Applied Econometrics
+
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc 
@@ -45,13 +49,5 @@ Assistant Lecturer
 
 
 
-## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
-**Project 2** (link)
-- Description 
-- Accomplishment
 
 
