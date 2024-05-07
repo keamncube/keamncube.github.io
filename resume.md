@@ -11,7 +11,7 @@ permalink: /Resume/
 
 
 # Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://keamncube.github.io)
+Software Engineer | Portfolio: [keamncube.github.io](https://keamncube.github.io)
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
