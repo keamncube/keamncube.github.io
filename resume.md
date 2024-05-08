@@ -43,12 +43,8 @@ Assistant Lecturer
 Macroeconomics, Bank Regualtion, Monetary Economics, Applied Econometrics
 
 
-## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
-
+## Computing Skills
+Stata; Dynare; Matlab; Latex
 
 
 
