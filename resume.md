@@ -11,14 +11,16 @@ permalink: /Resume/
 
 
 ## General Information
-Full Name  Keaoleboga Lucas Mncube | Portfolio: [keamncube.github.io](https://keamncube.github.io)
+Full Name:  Keaoleboga Lucas Mncube 
 
-Date of Birth  02 Decemeber 1993
+Date of Birth:  02 Decemeber 1993
 
-Languages English, Setswana
+Languages: English, Setswana
+
+Portfolio: [keamncube.github.io](https://keamncube.github.io)
 
 ## Education
-**Ph.D (Economics)** | University of Pretoria | February 2019-  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy**|
+**Ph.D (Economics)** | University of Pretoria | February 2019-  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy**
 
 **Master of Philosophy (Economics)** | University of Pretoria | February 2017-December 2018 |
 
