@@ -7,7 +7,7 @@
         {% if include.srcabs %}
             src="{{ include.srcabs }}"
         {% else %}
-            src="{{ site.baseurl }}/assets/images/{{ include.src }}"
+            "{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg"  class="img-responsive""
         {% endif %}
     alt="{{ include.alt }}">
     {% if include.url %}
