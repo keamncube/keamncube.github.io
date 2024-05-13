@@ -23,11 +23,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 
-theme:  chirpy
+theme:  minima
 plugins:
   - jekyll-feed
 
-theme_mode:  dark
 #minima:
   # Minima skin selection.
   # Available skins are:
@@ -37,7 +36,7 @@ theme_mode:  dark
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
- # skin: dark
+  skin: dark
   
 
 # Exclude from processing.
