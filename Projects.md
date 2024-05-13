@@ -4,8 +4,10 @@ title: Projects
 permalink: /Projects/
 ---
 
-<figure>
-<img align="left" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg"  alt="A caption" />
+:::{figure-md} markdown-fig
+<img align="left" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg"  class="img-responsive"  />
+:::
+
 
 
 <img align="right" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/Picture1.png" class="img-responsive" />
