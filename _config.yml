@@ -23,12 +23,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
 
-minima:
+#minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -37,7 +37,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
+ # skin: dark
   
 
 # Exclude from processing.
