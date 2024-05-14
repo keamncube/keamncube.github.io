@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 remote_theme: jekyll/minima
 minima:
-  skin: auto
+  skin: solarized-light	
 #theme:  minima
 plugins:
   - jekyll-feed
