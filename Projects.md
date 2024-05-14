@@ -14,7 +14,7 @@ permalink: /Projects/
 
 
 
-<img align="center" width="700" height="700" src="{{ site.url }}{{ site.baseurl }}/docs/assets/Picture1.png" class="img-responsive" />
+<img align="center" width="700" height="700" src="{{ site.url }}{{ site.baseurl }}/docs/assets/Picture2.png" class="img-responsive" />
  <br>
     <em>Effect of bank regulation on bank pricing and lending</em>
 
