@@ -29,12 +29,12 @@ permalink: /Projects/
   <!-- replace title with your title -->
   <h2>Kea Mncube</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">Your name and link</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">Y and link</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
   <p align="justify"> This study estimates and contrasts the impact of macroprudential and financial inclusion policies.Our results suggest that macroprudential
-policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates  </p>
+policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.  </p>
 
 
   </div>
