@@ -19,17 +19,17 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/Picture2.png" alt="Conditional forecasting"  width="400" height="300"/>
-
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates.jpg" alt="Conditional forecasting"  width="400" height="300"/>
+<img src="{{ site.url }}{{ site.baseurl }}/docs/assets/volumes.jpg" alt="Conditional forecasting"  width="400" height="300"/>
 
 
 
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Kea Mncube</h2>
+  <h2>X. Sibande, D. Nxumalo, K. Mncube, S. Kock, N. Viegi. keamncube.github.io</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Kock, N. Viegi. keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/"></a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
