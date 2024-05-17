@@ -27,7 +27,7 @@ permalink: /Projects/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>X. Sibande, D. Nxumalo, K. Mncube, S. Kock, N. Viegi. </h2>
+  <h2>X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi. </h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
@@ -46,8 +46,8 @@ policy is working as intended as it is associated with increases in interest rat
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft2.png" alt="Conditional forecasting"  width="700" height="400"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl2.png" alt="Conditional forecasting"  width="700" height="400"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft2.png" alt="Conditional forecasting"  width="700" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl2.png" alt="Conditional forecasting"  width="700" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
