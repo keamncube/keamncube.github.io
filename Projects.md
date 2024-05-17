@@ -6,7 +6,7 @@ permalink: /Projects/
 
 
 
-#Macroprudential polciy
+Macroprudential polciy
 
 
 <img align="left" width="600" height="600" src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" class="img-responsive" />
