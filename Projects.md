@@ -46,8 +46,8 @@ policy is working as intended as it is associated with increases in interest rat
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft2.png" alt="Conditional forecasting"  width="400" height="400"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl2.png" alt="Conditional forecasting"  width="400" height="400"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft2.png" alt="Conditional forecasting"  width="600" height="700"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl2.png" alt="Conditional forecasting"  width="600" height="700"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
@@ -58,7 +58,8 @@ policy is working as intended as it is associated with increases in interest rat
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> Your paper summary paragraph... </p>
+  <p align="justify"> This paper investigates and estimates the macroeconomic effects of regulatory changes in the South African banking industry, by introducing narrative series capturing regulatory changes. The estimations are perfomed in a  Bayesian Vector Autoregression (BVAR(X)) and  Local Projections-
+Instrumental Variables (LP-IV) settings. We find evidence of both a contraction and increase in credit extension following regulatory changes.  </p>
   <!-- replace with your paper link -->
 
 
@@ -77,13 +78,13 @@ policy is working as intended as it is associated with increases in interest rat
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Title</h2>
+  <h2>K. Mncube</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://charlvschoor.github.io/">Your name and link</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> Your paper summary paragraph... </p>
+  <p align="justify"> This figure shows a timeline of major macropruential regulatory changes in the South African banking industry. </p>
   <!-- replace with your paper link -->
  
 
