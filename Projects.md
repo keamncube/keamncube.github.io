@@ -19,7 +19,7 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates.jpg" alt="Conditional forecasting"  width="500" height="500"/> 
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates.jpg" alt="Conditional forecasting"  width="400" height="300"/> 
 
 
 
@@ -71,7 +71,7 @@ policy is working as intended as it is associated with increases in interest rat
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/Picture2.png" alt="Conditional forecasting"  width="400" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" alt="Conditional forecasting"  width="400" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
