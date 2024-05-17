@@ -29,7 +29,7 @@ permalink: /Projects/
   <!-- replace title with your title -->
   <h2>Kea Mncube</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Kock, N. Viegi. keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
