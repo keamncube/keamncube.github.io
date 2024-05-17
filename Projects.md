@@ -9,7 +9,7 @@ permalink: /Projects/
 
 <p align="justify"> Research in this section focuses on understanding and investigating the role of bank regulation, particularly, (macro) prudential in influencing banking sector behaviour    </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
-* [Regulation and bank lending in South Africa: A narrative index approach: Answer](#regulation-and-bank-lending-in-South-Africa-answer)
+* [Regulation and bank lending in South Africa: A narrative index approach: Answer](#regulation-and-bank-lending-in-south-africa-answer)
 * [Second paper research question: Answer](#second-paper-research-question-answer)
 * [Timeline of major macroprudential regulatory changes: Answer](#timeline-of-major-macroprudential-regulatory-changes-answer)
 
