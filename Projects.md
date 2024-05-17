@@ -9,8 +9,8 @@ permalink: /Projects/
 
 <p align="justify"> Research in this section focuses on understanding and investigating the role of bank regulation, particularly, (macro) prudential in influencing banking sector behaviour    </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
-* [Regulation and bank lending in South Africa: A narrative index approach](#first-paper-research-question-answer)
-* [Can regulatory movements and changes in banking explain aggregate fluctuations? A narrative approach](#second-paper-research-question-answer)
+* [Regulation and bank lending in South Africa: A narrative index approach: Answer](#first-paper-research-question-answer)
+* [Can regulatory movements and changes in banking explain aggregate fluctuations? A narrative approach: Answer](#second-paper-research-question-answer)
 * [Third paper research question: Answer](#third-paper-research-question-answer)
 
 
@@ -19,8 +19,7 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates.jpg" alt="Conditional forecasting"  width="400" height="300"/> <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/volumes.jpg" alt="Conditional forecasting"  width="400" height="300"/> 
-
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates.jpg" alt="Conditional forecasting"  width="800" height="800"/> 
 
 
 
@@ -43,7 +42,7 @@ policy is working as intended as it is associated with increases in interest rat
 <!-- Divider -->
 ---
 
-## Can regulatory movements and changes in banking explain aggregate fluctuations? A narrative approach
+## Can regulatory movements and changes in banking explain aggregate fluctuations? A narrative approach: Answer
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
