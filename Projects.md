@@ -33,8 +33,7 @@ permalink: /Projects/
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This study estimates and contrasts the impact of macroprudential and financial inclusion policies.Our results suggest that macroprudential
-policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.  </p>
+  <p align="justify"> This study estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.  </p>
 
 
   </div>
@@ -58,8 +57,7 @@ policy is working as intended as it is associated with increases in interest rat
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This paper investigates and estimates the macroeconomic effects of regulatory changes in the South African banking industry, by introducing narrative series capturing regulatory changes. The estimations are perfomed in a  Bayesian Vector Autoregression (BVAR(X)) and  Local Projections-
-Instrumental Variables (LP-IV) settings. We find evidence of both a contraction and increase in credit extension following regulatory changes.  </p>
+  <p align="justify"> This paper investigates and estimates the macroeconomic effects of regulatory changes in the South African banking industry, by introducing narrative series capturing regulatory changes. The estimations are perfomed in a  Bayesian Vector Autoregression (BVAR(X)) and  Local Projections-Instrumental Variables (LP-IV) settings. The results show both a contraction and increase in credit extension following regulatory changes.  </p>
   <!-- replace with your paper link -->
 
 
@@ -84,7 +82,7 @@ Instrumental Variables (LP-IV) settings. We find evidence of both a contraction 
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This figure shows a timeline of major macropruential regulatory changes in the South African banking industry. </p>
+  <p align="justify"> This figure shows a timeline of major macroprudential regulatory changes in the South African banking industry. </p>
   <!-- replace with your paper link -->
  
 
