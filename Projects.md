@@ -19,8 +19,8 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates.jpg" alt="Conditional forecasting"  width="800" height="300"/> 
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/volumes.jpg" alt="Conditional forecasting"  width="800" height="300"/> 
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/rates2.jpg" alt="Conditional forecasting"  width="800" height="300"/> 
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/volumes2.jpg" alt="Conditional forecasting"  width="800" height="300"/> 
 
 
 
@@ -45,8 +45,8 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft.png" alt="Conditional forecasting"  width="800" height="300"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl.png" alt="Conditional forecasting"  width="800" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft.png" alt="Conditional forecasting"  width="700" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl.png" alt="Conditional forecasting"  width="700" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
