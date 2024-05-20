@@ -45,8 +45,8 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft.png" alt="Conditional forecasting"  width="700" height="300"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl.png" alt="Conditional forecasting"  width="700" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/draft2.png" alt="Conditional forecasting"  width="700" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/impl2.png" alt="Conditional forecasting"  width="700" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
