@@ -12,6 +12,7 @@ permalink: /Projects/
 * [Regulation and bank lending in South Africa: A narrative index approach: Answer](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach-answer)
 * [Bank lending and macroprudential regulation: A narrative approach: Answer](#bank-lending-and-macroprudential-regulation-a-narrative-approach-answer)
 * [Timeline of major macroprudential regulatory changes: Answer](#timeline-of-major-macroprudential-regulatory-changes-answer)
+* [Bank CEO qoutes on prudential regulation: Answer](#bank-ceo-qoutes-on-prudential-regulation-answer)
 
 
 
@@ -89,7 +90,27 @@ permalink: /Projects/
   </div>
 </div>
 
+## Bank CEO qoutes on prudential regulation: Answer
+<div class="row">
+  <div class="col col-md-6" markdown="0">
+  <!-- replace with your paper figure -->
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/pablo.jpg" alt="Conditional forecasting"  width="500" height="600"/>
 
+  </div>
+  <div class="col col-md-6" markdown="0">
+  <!-- replace title with your title -->
+  <h2>K. Mncube</h2>
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <!-- replace with the date of publication -->
+  <p>Publish Date</p>
+  <!-- replace with your text -->
+  <p align="justify"> This figure shows qoutes from CEO's of big banks in South Africa, raising concerns on the adoption and compliance to omacroprudential regulation. </p>
+  <!-- replace with your paper link -->
+ 
+
+  </div>
+</div>
 
 
 
