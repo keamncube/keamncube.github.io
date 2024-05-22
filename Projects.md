@@ -34,7 +34,7 @@ permalink: /Projects/
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This study estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.  </p>
+  <p align="justify"> This paper estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.  </p>
 
 
   </div>
@@ -72,7 +72,7 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" alt="Conditional forecasting"  width="500" height="600"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.jpg" alt="Conditional forecasting"  width="700" height="700"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
