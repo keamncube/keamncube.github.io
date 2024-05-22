@@ -94,7 +94,7 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/pablo.jpg" alt="Conditional forecasting"  width="600" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/pablo2.jpg" alt="Conditional forecasting"  width="600" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
