@@ -9,14 +9,14 @@ permalink: /Projects/
 
 <p align="justify"> Research in this section focuses on understanding and investigating the role of bank regulation, particularly (macro) prudential in influencing banking sector behaviour    </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
-* [Regulation and bank lending in South Africa: A narrative index approach: Answer](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach-answer)
-* [Bank lending and macroprudential regulation: A narrative approach: Answer](#bank-lending-and-macroprudential-regulation-a-narrative-approach-answer)
+* [Regulation and bank lending in South Africa: A narrative index approach: Intended](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach-intended)
+* [Bank lending and macroprudential regulation: A narrative approach: Intended](#bank-lending-and-macroprudential-regulation-a-narrative-approach-intended)
 * [Timeline of major macroprudential regulatory changes: Answer](#timeline-of-major-macroprudential-regulatory-changes-answer)
-* [Bank CEO qoutes on prudential regulation: Answer](#bank-ceo-qoutes-on-prudential-regulation-answer)
+* [Bank CEO qoutes on prudential regulation: COL](#bank-ceo-qoutes-on-prudential-regulation-col)
 
 
 
-## Regulation and bank lending in South Africa: A narrative index approach: Answer
+## Regulation and bank lending in South Africa: A narrative index approach: Intended
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
@@ -42,7 +42,7 @@ permalink: /Projects/
 
 <!-- Divider -->
 ---
-## Bank lending and macroprudential regulation: A narrative approach: Answer
+## Bank lending and macroprudential regulation: A narrative approach: Intended
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -90,7 +90,7 @@ permalink: /Projects/
   </div>
 </div>
 
-## Bank CEO qoutes on prudential regulation: Answer
+## Bank CEO qoutes on prudential regulation: COL
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
