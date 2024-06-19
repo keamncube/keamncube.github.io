@@ -54,7 +54,7 @@ permalink: /Projects/
   <!-- replace title with your title -->
   <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
