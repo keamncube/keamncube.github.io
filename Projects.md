@@ -79,7 +79,7 @@ permalink: /Projects/
   <!-- replace title with your title -->
   <h2>Major macroprudential regulatory changes in South Africa.</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
@@ -101,7 +101,7 @@ permalink: /Projects/
   <!-- replace title with your title -->
   <h2>Bank CEO's decry onslaught of regulatory changes in the banking industry</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
