@@ -28,7 +28,7 @@ permalink: /Projects/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi. </h2>
+  <h2>Estimating the effects of macroprudential and finacial regulation. </h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
@@ -52,7 +52,7 @@ permalink: /Projects/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>K. Mncube</h2>
+  <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
@@ -77,7 +77,7 @@ permalink: /Projects/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>K. Mncube</h2>
+  <h2>Major macroprudential regulatory changes in South Africa.</h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
@@ -99,7 +99,7 @@ permalink: /Projects/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>K. Mncube</h2>
+  <h2>Bank CEO's decry onslaught of regulatory changes in the banking industry</h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
