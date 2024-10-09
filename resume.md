@@ -20,27 +20,27 @@ Languages: English, Setswana
 Portfolio: [keamncube.github.io](https://keamncube.github.io)
 
 ## Education
-**Ph.D (Economics)** | University of Pretoria | February 2019 - 2024  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy**
+**Ph.D (Economics)** | University of Pretoria | February 2019 - 2024  | Thesis Title: **Essays on the role of Banking and Finance in the South African Economy**|
 
 **Master of Philosophy (Economics)** | University of Pretoria | February 2017-December 2018 |
 
 
 
 ## Experience
--**University of Pretoria** (1 October 2024 - Present)   
+**University of Pretoria** (1 October 2024 - Present)   
 Senior Research Officer
 
 
--**University of Pretoria** (18 March 2024 - 30 September 2024)   
+**University of Pretoria** (18 March 2024 - 30 September 2024)   
 Research Officer
 
 
--**University of Pretoria** (18 March 2024 - Present)
+**University of Pretoria** (18 March 2024 - Present)
 
 Lecturer
 
 
--**University of Pretoria** (1 July 2022 - 31 Decemeber 2022)
+**University of Pretoria** (1 July 2022 - 31 Decemeber 2022)
 
 Assistant Lecturer
 
