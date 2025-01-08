@@ -47,20 +47,20 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
     <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting"  width="400" height="300" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting"  width="400" height="300" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
      <p>
 
   <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image5.png" alt="Conditional forecasting"  width="400" height="300" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image6.png" alt="Conditional forecasting"  width="400" height="300" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image5.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image6.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
      <p>
 
 
 
     
 
-  
+   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
   <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
