@@ -46,24 +46,14 @@ permalink: /Projects/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting"  width="200" height="200"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting"  width="200" height="200"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image5.png" alt="Conditional forecasting"  width="200" height="200"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image6.png" alt="Conditional forecasting"  width="200" height="200"/>
+    <p>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting"  width="200" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting"  width="200" height="200" hspace="10"/>
+     <p>
 
 
 
-<div class="grid" markdown>
 
-![Image title](https://dummyimage.com/600x400/f5f5f5aaaaaatext=1)
-
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2)
-
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3)
-
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4)
-
-</div>
     
 
   </div>
