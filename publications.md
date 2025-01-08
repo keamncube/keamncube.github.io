@@ -16,10 +16,9 @@ permalink: /Publications/
 
 
 
-<div class="row">
-  <div class="col col-md-6" markdown="0">
 
-<a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/regulation-and-bank-lending-in-south-africa-a-narrative-index-approach.pdf"><b> Mncube et al,. 2024. Regulation and bank lending in South Africa: a narrative index approach
+
+<a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/regulation-and-bank-lending-in-south-africa-a-narrative-index-approach.pdf"><b> Mncube et al,. 2024. Regulation and bank lending in South Africa: a narrative index approach</b></a>
 
 
 <p align="justify"> The extension of affordable credit is key to financial inclusion but it could reduce the stability of the financial sector. Macroprudential policy, on the other hand, is designed to mitigate financial sector risk. Thus, inclusion and macroprudential regulations may be in opposition. This study estimates and contrasts the impact of these potentially contradictory regulations on the bank lending rates and volumes of South Africa’s largest banks. Our results suggest that macroprudential policy is working as intended, as it is associated with increases in interest rates on unsecured lending rates and decreases in short-term secured and mortgage lending rates. Inclusion-focused regulation is associated with increased bank lending rates in unsecured credit. We observe a decrease in the growth of unsecured lending for households and an increase in secured lending for corporates. We find that the estimated effects of financial inclusion initiatives largely overlap with – rather than offset – the estimated effects of macroprudential policy.
