@@ -47,13 +47,13 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
     <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
      <p>
 
   <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image5.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image6.png" alt="Conditional forecasting"  width="400" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image5.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image6.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
      <p>
 
 
