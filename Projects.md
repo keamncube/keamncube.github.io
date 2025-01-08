@@ -52,8 +52,18 @@ permalink: /Projects/
     <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image6.png" alt="Conditional forecasting"  width="200" height="200"/>
 
 
-  <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/image3.png" alt="Conditional forecasting" src="{{ site.url }}{{ site.baseurl }}/docs/assets/image4.png" alt="Conditional forecasting" /> />
 
+<div class="grid" markdown>
+
+![Image title](https://dummyimage.com/600x400/f5f5f5aaaaaatext=1)
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2)
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3)
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4)
+
+</div>
     
 
   </div>
