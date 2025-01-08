@@ -14,7 +14,7 @@ permalink: /Publications/
 
 <b><i>South African Journal of Economics</i></b>
 
-
+---
 
 <a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/regulation-and-bank-lending-in-south-africa-a-narrative-index-approach.pdf"><b> Mncube et al,. 2024. Regulation and bank lending in South Africa: a narrative index approach
 
