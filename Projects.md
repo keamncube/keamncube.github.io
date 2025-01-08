@@ -58,7 +58,7 @@ permalink: /Projects/
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This paper investigates and estimates the macroeconomic effects of regulatory changes in the South African banking industry, by introducing narrative series capturing regulatory changes. The estimations are perfomed in a  Bayesian Vector Autoregression (BVAR(X)) and  Local Projections-Instrumental Variables (LP-IV) settings. The results show both a contraction and increase in credit extension following regulatory changes.  </p>
+  <p align="justify"> This paper investigates and estimates the macroeconomic effects of regulatory changes in the South African banking industry, by introducing narrative series capturing regulatory changes. The estimations are perfomed in a  Local Projections (LP) setting. The results show contractionary effects of announced regulatory changes on credit supply.  </p>
   <!-- replace with your paper link -->
 
 
