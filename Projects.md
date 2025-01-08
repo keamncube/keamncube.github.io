@@ -58,8 +58,6 @@ permalink: /Projects/
 
 
 
-    
-
    </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
