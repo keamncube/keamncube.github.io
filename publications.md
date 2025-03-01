@@ -13,7 +13,7 @@ permalink: /Publications/
 
 
 
-  </div>
+
   <div class="col col-md-6" markdown="0">
 
 
