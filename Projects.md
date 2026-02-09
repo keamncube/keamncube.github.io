@@ -69,7 +69,7 @@ permalink: /Projects/
 
 
 
-***
+_
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -87,7 +87,7 @@ permalink: /Projects/
 
   <!-- replace with your paper link -->
  
-***
+_
   </div>
 </div>
 
@@ -109,9 +109,6 @@ permalink: /Projects/
   <p align="justify"> This figure shows qoutes from CEO's of big banks in South Africa, raising concerns on the adoption and compliance to omacroprudential regulation. </p>
   <!-- replace with your paper link -->
  
-
-  </div>
-</div>
 
 
 
