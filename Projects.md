@@ -29,7 +29,7 @@ permalink: /Projects/
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
-  <p>Publish Date</p> January 2025
+  <p>Publish Date<a January 2025</a> </p>
   <!-- replace with your text -->
   <p align="justify"> The figure shows announcements and implementation of prudential regulation against credit growth extension, for various lending categories. This paper estimates and contrasts the impact of macroprudential and financial inclusion policies. We find that announcements of prudential regulation are associated with an increase in secured lending, while the implementation of prudential regulation is associated with an increase in unsecured lending. Furthermore, the estimated effects of efforts aimed at extending credit to households have no impact on bank lending to households but increase secured lending to corporates. The two regulatory approaches overlap with regard to lending to corporates.  </p>
 
@@ -55,8 +55,8 @@ permalink: /Projects/
 
 
 
-   </div>
-  <div class="col col-md-6" markdown="0">
+   
+  
   <!-- replace title with your title -->
   <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
   <!-- replace author with your name and link -->
@@ -74,7 +74,7 @@ permalink: /Projects/
 <!-- Divider -->
 ---
 
-## 
+
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -89,7 +89,7 @@ permalink: /Projects/
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This figure shows a timeline of major macroprudential regulatory changes in the South African banking industry. </p>
+
   <!-- replace with your paper link -->
  
 
