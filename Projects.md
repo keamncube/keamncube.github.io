@@ -29,10 +29,9 @@ permalink: /Projects/
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
-  <p>Publish Date</p>
+  <p>Publish Date</p> January 2025
   <!-- replace with your text -->
-  <p align="justify"> This paper estimates and contrasts the impact of macroprudential and financial inclusion policies. We find that announcements of prudential
-regulation are associated with an increase in secured lending, while the implementation of prudential regulation is associated with an increase in unsecured lending. Furthermore, the estimated effects of efforts aimed at extending credit to households have no impact on bank lending to households but increase secured lending to corporates. The two regulatory approaches overlap with regard to lending to corporates.  </p>
+  <p align="justify"> The figure shows announcements and implementation of prudential regulation against credit growth extension, for various lending categories. This paper estimates and contrasts the impact of macroprudential and financial inclusion policies. We find that announcements of prudential regulation are associated with an increase in secured lending, while the implementation of prudential regulation is associated with an increase in unsecured lending. Furthermore, the estimated effects of efforts aimed at extending credit to households have no impact on bank lending to households but increase secured lending to corporates. The two regulatory approaches overlap with regard to lending to corporates.  </p>
 
 
   </div>
@@ -40,7 +39,7 @@ regulation are associated with an increase in secured lending, while the impleme
 
 <!-- Divider -->
 ---
-## Bank lending and macroprudential regulation: A narrative approach
+
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -75,7 +74,7 @@ regulation are associated with an increase in secured lending, while the impleme
 <!-- Divider -->
 ---
 
-## Timeline of major macroprudential regulatory changes
+## 
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -84,7 +83,7 @@ regulation are associated with an increase in secured lending, while the impleme
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Major macroprudential regulatory changes in South Africa.</h2>
+  <h2>Timeline of major macroprudential regulatory changes.</h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
@@ -97,7 +96,6 @@ regulation are associated with an increase in secured lending, while the impleme
   </div>
 </div>
 
-## Bank CEO qoutes on prudential regulation
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
