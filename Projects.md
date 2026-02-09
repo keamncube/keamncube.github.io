@@ -21,26 +21,26 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
   <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/costs.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/wages.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/costs.png" alt="Conditional forecasting"  width="500" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/wages.png" alt="Conditional forecasting"  width="500" height="200" hspace="10"/>
      <p>
    
 
 
 
-  </div>
+
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
   <!-- replace author with your name and link -->
 <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
-  <p>Publish Date. January 2025. </p>
+  <p>Publish Date. </p>
   <!-- replace with your text -->
   <p align="justify"> The figure shows . This paper.  </p>
 
 <hr>
 
-## Regulation and bank lending in South Africa: A narrative index approach
+<h2>Regulation and bank lending in South Africa: A narrative index approach</h2
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
