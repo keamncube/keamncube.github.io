@@ -83,7 +83,7 @@ permalink: /Projects/
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
-  <p>Publish Date</p>
+ 
   <!-- replace with your text -->
 
   <!-- replace with your paper link -->
@@ -102,7 +102,7 @@ permalink: /Projects/
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
-  <p>Publish Date</p>
+ 
   <!-- replace with your text -->
   <p align="justify"> This figure shows qoutes from CEO's of big banks in South Africa, raising concerns on the adoption and compliance to omacroprudential regulation. </p>
   <!-- replace with your paper link -->
