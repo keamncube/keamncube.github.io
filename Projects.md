@@ -7,9 +7,13 @@ permalink: /Projects/
 
 
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
-* [Non-interest costs and bank interest margins](#non-interest-costs-and-bank-interest-margins)
+* [Non interest costs and bank interest margins](#non-interest-costs-and-bank-interest-margins)
 * [Regulation and bank lending in South Africa: A narrative index approach](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach)
 * [Bank lending and macroprudential regulation: A narrative approach](#bank-lending-and-macroprudential-regulation-a-narrative-approach)
+* [Timeline of major macroprudential regulatory changes](#timeline-of-major-macroprudential-regulatory-changes)
+* [Bank CEO qoutes on prudential regulation](#bank-ceo-qoutes-on-prudential-regulation)
+
+
 
 
 
@@ -66,7 +70,7 @@ permalink: /Projects/
 
 
 <hr>
-
+<h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -85,7 +89,7 @@ permalink: /Projects/
    
   
   <!-- replace title with your title -->
-  <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
+  
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
@@ -94,3 +98,42 @@ permalink: /Projects/
   <p align="justify"> This paper investigates and estimates the macroeconomic effects of regulatory changes in the South African banking industry, by introducing narrative series capturing regulatory changes. The estimations are perfomed in a  Local Projections (LP) setting. The results show contractionary effects of announced regulatory changes on credit supply.  </p>
   <!-- replace with your paper link -->
 
+
+  <hr>
+  <h2>Timeline of major macroprudential regulatory changes.</h2>
+<div class="row">
+  <div class="col col-md-6" markdown="0">
+  <!-- replace with your paper figure -->
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.png" alt="Conditional forecasting"  width="600" height="600"/>
+
+  </div>
+  <div class="col col-md-6" markdown="0">
+  <!-- replace title with your title -->
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
+  <!-- replace with the date of publication -->
+ 
+  <!-- replace with your text -->
+
+  <!-- replace with your paper link -->
+ 
+
+<hr>
+
+ <h2>Bank CEO's decry onslaught of regulatory changes in the banking industry</h2>
+<div class="row">
+  <div class="col col-md-6" markdown="0">
+  <!-- replace with your paper figure -->
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/pablo2.jpg" alt="Conditional forecasting"  width="800" height="400"/>
+
+  </div>
+  <div class="col col-md-6" markdown="0">
+  <!-- replace title with your title -->
+ 
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
+  <!-- replace with the date of publication -->
+ 
+  <!-- replace with your text -->
+  <p align="justify"> This figure shows qoutes from CEO's of big banks in South Africa, raising concerns on the adoption and compliance to omacroprudential regulation. </p>
+  <!-- replace with your paper link -->
