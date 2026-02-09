@@ -68,11 +68,6 @@ permalink: /Projects/
   <!-- replace with your paper link -->
 
 
-  </div>
-</div>
-
-<!-- Divider -->
----
 
 
 <div class="row">
@@ -96,7 +91,7 @@ permalink: /Projects/
   </div>
 </div>
 
----
+
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
