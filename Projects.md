@@ -111,7 +111,7 @@ permalink: /Projects/
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
- 
+ <p align="justify">This Figure shows a timeline of major macroprudential  regulatory changes in South Africa. <p>
   <!-- replace with your text -->
 
   <!-- replace with your paper link -->
