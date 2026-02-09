@@ -5,9 +5,7 @@ permalink: /Projects/
 ---
 
 
-# Macroprudential regulation
 
-<p align="justify"> Research in this section focuses on understanding and investigating the role of bank regulation, particularly (macro) prudential in influencing banking sector behaviour    </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
 * [Regulation and bank lending in South Africa: A narrative index approach](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach)
 * [Bank lending and macroprudential regulation: A narrative approach](#bank-lending-and-macroprudential-regulation-a-narrative-approach)
@@ -28,13 +26,13 @@ permalink: /Projects/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Estimating the effects of macroprudential and finacial regulation. </h2>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This paper estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.  </p>
+  <p align="justify"> This paper estimates and contrasts the impact of macroprudential and financial inclusion policies. We find that announcements of prudential
+regulation are associated with an increase in secured lending, while the implementation of prudential regulation is associated with an increase in unsecured lending. Furthermore, the estimated effects of efforts aimed at extending credit to households have no impact on bank lending to households but increase secured lending to corporates. The two regulatory approaches overlap with regard to lending to corporates.  </p>
 
 
   </div>
