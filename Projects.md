@@ -105,7 +105,6 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
     <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/timeline.png" alt="Conditional forecasting"  width="600" height="600"/>
-
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
@@ -125,7 +124,6 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
     <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/pablo2.jpg" alt="Conditional forecasting"  width="800" height="400"/>
-
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
