@@ -6,7 +6,7 @@ permalink: /Resume/
 
 
 
-[Kea_Mncube_CV.pdf](https://github.com/keamncube/keamncube.github.io/files/15240263/Kea_Mncube_CV.pdf)
+[Kea_Mncube_CV.pdf](https://github.com/keamncube/keamncube.github.io/blob/gh-pages/Kea_Mncube_CV.pdf)
 
 
 ## Research Interests
