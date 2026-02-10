@@ -22,7 +22,7 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
   <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/costs.png" alt="Conditional forecasting"  width="800" height="300" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/cost.png" alt="Conditional forecasting"  width="800" height="300" hspace="10"/>
     
      
    
