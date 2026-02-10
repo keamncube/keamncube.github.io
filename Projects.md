@@ -7,15 +7,33 @@ permalink: /Projects/
 
 
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
+* [Effects of Central Bank Foreign Currency Reserve Purchases, in a Floor System](effects-of-central-bank-foreign-furrency-reserve-purchases-in-a-floor-system)
 * [Non interest costs and bank interest margins](#non-interest-costs-and-bank-interest-margins)
 * [Regulation and bank lending in South Africa: A narrative index approach](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach)
 * [Bank lending and macroprudential regulation: A narrative approach](#bank-lending-and-macroprudential-regulation-a-narrative-approach)
-* [Effects of Central Bank Foreign Currency Reserve Purchases, in a Floor System](effects-of-central-bank-foreign-furrency-reserve-purchases-in-a-floor-system)
 
 
 
+<h2>Central Bank Balance Sheet and the Floor system in Small Open Economy.</h2>
+<div class="row">
+  <div class="col col-md-6" markdown="0">
+  <!-- replace with your paper figure -->
+    <p>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/sheet.png" alt="Conditional forecasting"  width="600" height="200" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/MPIF.png" alt="Conditional forecasting"  width="600" height="200" hspace="10"/>
+
+    
+     <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
+  <!-- replace with the date of publication -->
+  <p>Publish Date</p>
+  <!-- replace with your text -->
+  <p align="justify"> This paper.  </p>
+  <!-- replace with your paper link -->
+
+  
 
 
+<hr>
 
 <h2>The relationship between non-interest bank costs and bank interest margins .</h2>
 
@@ -98,22 +116,4 @@ permalink: /Projects/
   <!-- replace with your paper link -->
 
 
-<hr>
 
-<h2>Central Bank Balance Sheet and the Floor system in Small Open Economy.</h2>
-<div class="row">
-  <div class="col col-md-6" markdown="0">
-  <!-- replace with your paper figure -->
-    <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/sheet.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/MPIF.png" alt="Conditional forecasting"  width="300" height="200" hspace="10"/>
-
-    
-     <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
-  <!-- replace with the date of publication -->
-  <p>Publish Date</p>
-  <!-- replace with your text -->
-  <p align="justify"> This paper.  </p>
-  <!-- replace with your paper link -->
-
-  
