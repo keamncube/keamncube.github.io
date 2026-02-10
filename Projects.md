@@ -19,18 +19,19 @@ permalink: /Projects/
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
     <p>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/sheet.png" alt="Conditional forecasting"  width="400" height="300" hspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/MPIF.png" alt="Conditional forecasting"  width="400" height="300" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/sheet.png" alt="Conditional forecasting"  width="300" height="300" hspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/MPIF.png" alt="Conditional forecasting"  width="300" height="300" hspace="10"/>
 
     
      <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
-  <p align="justify"> This paper.  </p>
+  <p align="justify"> This paper proposes a small open-economy (SOE) dynamic stochastic general equilibrium (DSGE) model, capable of evaluating the effects of central bank (CB) foreign currency (FX) reserve purchases in the floor system of monetary policy implementation. This is particular to the South African Reserve Bank (SARB), which recently became the first emerging market central bank to adopt the floor system. The paper contends that exchange rate movements and the conduct of monetary policy have consequences for the profit (loss) ( or net worth) of the CB and banks’ portfolio choices. This is particularity relevant for CB’s that hold FX assets, coupled with the floor system of monetary policy
+implementation.  </p>
   <!-- replace with your paper link -->
 
-  
+ 
 
 
 <hr>
