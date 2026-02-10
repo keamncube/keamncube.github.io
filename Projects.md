@@ -37,7 +37,7 @@ permalink: /Projects/
   <!-- replace with the date of publication -->
   <p>Publish Date. </p>
   <!-- replace with your text -->
-  <p align="justify"> The figure shows . This paper.  </p>
+  <p align="justify"> This project evaluates the role of non-interest bank cost such as headcount staff in influencing bank interest margins. The table shows GMM regression results for banks in a panel of five (5) commodity dependent countries. It shows that non-interest bank costs are a significant driver of net interest margins, especially for small banks. .  </p>
 
 
 
