@@ -45,7 +45,7 @@ implementation.  </p>
   <!-- replace with your paper figure -->
     <p>
     <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/asset.png" alt="Conditional forecasting"  width="700" height="300" vspace="10"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/asset1.png" alt="Conditional forecasting"  width="700" height="300" vspace="10"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/docs/assets/asset2.png" alt="Conditional forecasting"  width="700" height="300" vspace="10"/>
 
     
      <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
