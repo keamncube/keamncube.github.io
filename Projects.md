@@ -8,9 +8,11 @@ permalink: /Projects/
 
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
 * [Effects of Central Bank Foreign Currency Reserve Purchases, in a Floor System](#effects-of-central-bank-foreign-furrency-reserve-purchases-in-a-floor-system)
+* [Bank portfolio choices in the floor system regime](#bank-portolio-choices-in-the-floor-system-regime)
 * [Non interest costs and bank interest margins](#non-interest-costs-and-bank-interest-margins)
 * [Regulation and bank lending in South Africa: A narrative index approach](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach)
 * [Bank lending and macroprudential regulation: A narrative approach](#bank-lending-and-macroprudential-regulation-a-narrative-approach)
+
 
 
 
