@@ -51,7 +51,7 @@ implementation.  </p>
      <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
- <p align="justify">  This paper analyses commercial bank’s portfolio choices under the regime of the floor system of monetary policy implementation.  In this regime, excess reserves are a portfolio choice for banks, in addition to other assets such as loans and bonds, as they earn a risk-free interest rate equal to the policy rate. In addition, excess reserves provide over-insurance for deposits. As such, they potentially increase the risk appetite for credit extension. Therefore ,  are excess reserves a profitable alternative to other bank assets such as loans and/ or are they compliments to loans due to the over-insurance they provide?  </p>
+ <p align="justify">  This paper proposes an empirical analysis of commercial bank’s portfolio choices under the regime of the floor system of monetary policy implementation.  In this regime, excess reserves are a portfolio choice for banks, in addition to other assets such as loans and bonds, as they earn a risk-free interest rate equal to the policy rate. In addition, excess reserves provide over-insurance for deposits. As such, they potentially increase the risk appetite for credit extension. Therefore ,  are excess reserves a profitable alternative to other bank assets such as loans and/ or are they compliments to loans due to the over-insurance they provide?  </p>
 
 
 
