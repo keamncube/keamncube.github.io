@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-<p align="right"> I am currently a Senior Research Officer with the South African Reserve Bank (SARB) Chair in Monetary Economics at the University of Pretoria.
+<p align="right"> I am currently a Lecturer and Research Officer at the University of Pretoria, Department of Economics.
 
   <img align="left" width="30%" height="20%" src="{{ site.url }}{{ site.baseurl }}/docs/assets/linkedin.jpg" class="img-responsive" />
 
